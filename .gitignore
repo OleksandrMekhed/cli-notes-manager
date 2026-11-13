@@ -1,0 +1,11 @@
+### venv ###
+.venv/
+
+### idea ###
+.idea/
+
+### pycache ###
+__pycache__/
+
+### notes.json ###
+.notes.json
